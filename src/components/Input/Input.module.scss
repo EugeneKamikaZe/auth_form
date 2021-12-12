@@ -1,0 +1,37 @@
+@import "../../scss/partials/variables";
+
+.label {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  text-transform: capitalize;
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+
+  margin-bottom: 24px;
+
+  input {
+    margin-top: 8px;
+    height: 40px;
+    padding: 4px 8px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $dark-indigo;
+    background-color: $white;
+    border: 1px solid;
+    border-radius: 4px;
+    &::placeholder {
+      color: $dark-gray;
+    }
+  }
+}
+
+.error {
+  position: absolute;
+  bottom: -20px;
+  color: $error;
+  margin: 0;
+  font-size: 12px;
+}
