@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/auth_form/static/css/main.53d9f726.chunk.css",
+    "main.js": "/auth_form/static/js/main.d7c0a02a.chunk.js",
+    "main.js.map": "/auth_form/static/js/main.d7c0a02a.chunk.js.map",
+    "runtime-main.js": "/auth_form/static/js/runtime-main.b96c8706.js",
+    "runtime-main.js.map": "/auth_form/static/js/runtime-main.b96c8706.js.map",
+    "static/css/2.3c526f5d.chunk.css": "/auth_form/static/css/2.3c526f5d.chunk.css",
+    "static/js/2.35f09bd1.chunk.js": "/auth_form/static/js/2.35f09bd1.chunk.js",
+    "static/js/2.35f09bd1.chunk.js.map": "/auth_form/static/js/2.35f09bd1.chunk.js.map",
+    "index.html": "/auth_form/index.html",
+    "static/css/2.3c526f5d.chunk.css.map": "/auth_form/static/css/2.3c526f5d.chunk.css.map",
+    "static/css/main.53d9f726.chunk.css.map": "/auth_form/static/css/main.53d9f726.chunk.css.map",
+    "static/js/2.35f09bd1.chunk.js.LICENSE.txt": "/auth_form/static/js/2.35f09bd1.chunk.js.LICENSE.txt",
+    "static/media/close.05dafe51.svg": "/auth_form/static/media/close.05dafe51.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96c8706.js",
+    "static/css/2.3c526f5d.chunk.css",
+    "static/js/2.35f09bd1.chunk.js",
+    "static/css/main.53d9f726.chunk.css",
+    "static/js/main.d7c0a02a.chunk.js"
+  ]
+}
